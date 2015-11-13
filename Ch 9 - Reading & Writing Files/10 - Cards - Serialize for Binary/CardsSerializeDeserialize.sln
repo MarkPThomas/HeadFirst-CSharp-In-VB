@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CardsSerializeDeserialize", "CardsSerializeDeserialize.vbproj", "{C734620A-8816-4C31-8778-19EA6BA0A5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C734620A-8816-4C31-8778-19EA6BA0A5FD}.Debug|x86.ActiveCfg = Debug|x86
+		{C734620A-8816-4C31-8778-19EA6BA0A5FD}.Debug|x86.Build.0 = Debug|x86
+		{C734620A-8816-4C31-8778-19EA6BA0A5FD}.Release|x86.ActiveCfg = Release|x86
+		{C734620A-8816-4C31-8778-19EA6BA0A5FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3 - Cards (VB)", "3 - Cards (VB)\3 - Cards (VB).vbproj", "{DC46DCBE-0FD3-4500-BC75-47D61B6F2783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC46DCBE-0FD3-4500-BC75-47D61B6F2783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC46DCBE-0FD3-4500-BC75-47D61B6F2783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC46DCBE-0FD3-4500-BC75-47D61B6F2783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC46DCBE-0FD3-4500-BC75-47D61B6F2783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
